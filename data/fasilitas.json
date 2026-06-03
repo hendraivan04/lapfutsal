@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nama": "Lapangan Futsal",
+        "gambar": "assets\/uploads\/fasilitas\/fas_1776235349_774.jpeg",
+        "deskripsi": "Nyaman dan bagus untuk para pecinta olahraga futsal"
+    },
+    {
+        "id": 2,
+        "nama": "Ruang Ganti",
+        "gambar": "assets\/uploads\/fasilitas\/fas_1776235378_742.jpg",
+        "deskripsi": "Ruang ganti bersih dan nyaman"
+    },
+    {
+        "id": 3,
+        "nama": "Toilet & Kamar Mandi",
+        "gambar": "assets\/uploads\/fasilitas\/fas_1776235409_312.jpg",
+        "deskripsi": "Toilet bersih dengan air mengalir dan perlengkapan mandi"
+    },
+    {
+        "id": 4,
+        "nama": "Kantin",
+        "gambar": "assets\/uploads\/fasilitas\/fas_1776235432_205.jpeg",
+        "deskripsi": "Area kantin dengan berbagai pilihan makanan dan minuman segar"
+    }
+]
